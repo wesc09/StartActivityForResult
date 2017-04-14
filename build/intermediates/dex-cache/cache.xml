@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adria\Documents\prova\StartActivityForResult\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41bac5c08502024e9e74d0e77636cd789f044565">
+        <dex dex="C:\Users\Adria\Documents\prova\StartActivityForResult\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8c218c4dde2095ff1f99809ddd60e1a9ba18d921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adria\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Adria\Documents\prova\StartActivityForResult\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_44cc899faaff25f7c99ddeb76ff20a1e198468e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adria\Documents\prova\StartActivityForResult\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Adria\Documents\prova\StartActivityForResult\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48e2ce742adb8c9f4fe9124db37ab78bf3b1ce35\classes.dex" />
+    </item>
+
+</items>

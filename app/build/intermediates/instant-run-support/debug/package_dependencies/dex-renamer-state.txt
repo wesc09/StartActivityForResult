@@ -1,0 +1,4 @@
+#Fri Apr 14 17:05:12 CEST 2017
+base.0=C\:\\Users\\Adria\\Documents\\prova\\StartActivityForResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_44cc899faaff25f7c99ddeb76ff20a1e198468e0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Adria\\Documents\\prova\\StartActivityForResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_44cc899faaff25f7c99ddeb76ff20a1e198468e0\\classes.dex

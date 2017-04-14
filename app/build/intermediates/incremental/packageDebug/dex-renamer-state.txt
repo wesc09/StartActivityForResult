@@ -1,0 +1,7 @@
+#Fri Apr 14 17:05:13 CEST 2017
+base.0=C\:\\Users\\Adria\\Documents\\prova\\StartActivityForResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8c218c4dde2095ff1f99809ddd60e1a9ba18d921
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Adria\\Documents\\prova\\StartActivityForResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48e2ce742adb8c9f4fe9124db37ab78bf3b1ce35\\classes.dex
+base.1=C\:\\Users\\Adria\\Documents\\prova\\StartActivityForResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48e2ce742adb8c9f4fe9124db37ab78bf3b1ce35
+file.0=C\:\\Users\\Adria\\Documents\\prova\\StartActivityForResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8c218c4dde2095ff1f99809ddd60e1a9ba18d921\\classes.dex
